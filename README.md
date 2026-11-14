@@ -16,6 +16,8 @@ The git history has been cleared, but the contributors are:
 * Jon Antoniac
 * Ta Anh Kiet
 
+Developed at Junction 2026: European Tech Renaissance. 
+
 ---
 
 ## Architecture
