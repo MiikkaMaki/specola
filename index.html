@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Specola — European Orbital Intelligence Console</title>
+    <meta
+      name="description"
+      content="Europe, eyes on orbit. Specola fuses live multi-source web intelligence with SGP4 public satellite orbital mechanics to verify proximity operations, detect unreported maneuvers early, and produce sourced decision briefs for European satellite operators."
+    />
+    <meta property="og:title" content="Specola — European Orbital Intelligence Console" />
+    <meta
+      property="og:description"
+      content="Europe, eyes on orbit. Specola fuses live multi-source web intelligence with SGP4 public satellite orbital mechanics to verify proximity operations, detect unreported maneuvers early, and produce sourced decision briefs for European satellite operators."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/cesium/Widgets/widgets.css" />
+    <script>
+      window.CESIUM_BASE_URL = '/cesium';
+    </script>
+  </head>
+  <body class="bg-black text-white antialiased selection:bg-white selection:text-black">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

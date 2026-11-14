@@ -1,0 +1,8 @@
+{
+  "name": "Specola — European Orbital Intelligence Console",
+  "description": "Europe, eyes on orbit. Specola fuses live multi-source web intelligence with SGP4 public satellite orbital mechanics to verify proximity operations, detect unreported maneuvers early, and produce sourced decision briefs for European satellite operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
