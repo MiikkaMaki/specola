@@ -7,6 +7,17 @@ Specola fuses real-time web intelligence with orbital mechanics to turn unverifi
 
 ---
 
+## Contributors
+
+The git history has been cleared, but the contributors are:
+
+* Miikka Mäki
+* Jaakko Lilja
+* Jon Antoniac
+* Ta Anh Kiet
+
+---
+
 ## Architecture
 
 ```
