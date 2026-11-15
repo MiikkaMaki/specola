@@ -1,13 +1,6 @@
-# Specola — European Orbital Intelligence & Verification Console
+### Preface
 
-> **"Europe, eyes on orbit."**
-> Live bidirectional verification between multi-source web intelligence and public SGP4 orbital mechanics.
-
-Specola fuses real-time web intelligence with orbital mechanics to turn unverified space claims and unreported proximity maneuvers into sourced, auditable decision briefs for European satellite operators (`ICEYE`, `Kuva Space`, `Eutelsat`, `SES`, `ESA Copernicus`), space underwriters, and national Space Situational Awareness (SSA) centers.
-
----
-
-## Contributors
+This project was developed as a part of Google Deepmind challenge using Gemini Hydrogen and Carbon.
 
 The git history has been cleared, but the contributors are:
 
@@ -17,6 +10,16 @@ The git history has been cleared, but the contributors are:
 * Ta Anh Kiet
 
 Developed at Junction 2026: European Tech Renaissance. 
+
+---
+
+
+# Specola — European Orbital Intelligence & Verification Console
+
+> **"Europe, eyes on orbit."**
+> Live bidirectional verification between multi-source web intelligence and public SGP4 orbital mechanics.
+
+Specola fuses real-time web intelligence with orbital mechanics to turn unverified space claims and unreported proximity maneuvers into sourced, auditable decision briefs for European satellite operators (`ICEYE`, `Kuva Space`, `Eutelsat`, `SES`, `ESA Copernicus`), space underwriters, and national Space Situational Awareness (SSA) centers.
 
 ---
 
